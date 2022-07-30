@@ -1,6 +1,7 @@
 {
     "name": "marcosmarcolin/beberlei-composer-monorepo-plugin",
     "license": "MIT",
+    "version": "1.0.0",
     "type": "composer-plugin",
     "require": {
         "composer-plugin-api": "^2.0"
