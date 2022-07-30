@@ -1,8 +1,0 @@
-{"packages":[
-    {
-        "name": "foo/bar",
-        "bin": [
-            "bin/usefulbin"
-        ]
-    }
-]}
